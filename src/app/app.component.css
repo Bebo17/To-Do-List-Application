@@ -1,0 +1,17 @@
+h1 {
+    text-align: center;
+    font-size: 32px;
+    color: rgb(28, 106, 224);
+}
+
+#submitButton {
+    margin-top: 20px;
+}
+
+#myCheckbox {
+    margin-left: 30px;
+}
+
+th {
+    width: 30%;
+}
